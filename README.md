@@ -1,4 +1,8 @@
-![Gruvbox theme](https://raw.githubusercontent.com/alexanderbrevig/kicad-gruvbox-theme/main/kicad-gruvbox-theme.png) 
+![Gruvbox theme in pcbnew](pcbnew.png) 
+
+![Gruvbox theme in eeschema](eeschema.png) 
+
+(the board is the Auklet (3 row version) from [here](https://github.com/crides/steno))
 
 # kicad-gruvbox-theme
 Gruvbox for KiCAD - THE FUTURE IS HERE
